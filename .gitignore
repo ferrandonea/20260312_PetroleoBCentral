@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 data/base-gastos-viii-epf-(formato-csv).csv
+.DS_Store
+.DS_Store
