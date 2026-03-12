@@ -1,0 +1,1 @@
+Ojo descomprimir datos en data antes de usar
